@@ -710,6 +710,10 @@ h2,
 
 /* State 3: mobile — show hamburger, hide desktop nav */
 @media (max-width: 768px) {
+  .section-inner {
+    padding-inline: var(--inset);
+  }
+
   .br-mobile {
     display: block;
   }
@@ -815,7 +819,7 @@ h2,
   .hero-headline,
   .hero-sub,
   .hero-cta {
-    font-size: 9vw;
+    font-size: 8vw;
   }
 
   .block-illustration:not(.block-illustration--hero) {
