@@ -659,7 +659,7 @@ h2,
 .hero-headline,
 .hero-sub,
 .hero-cta {
-  font-size: min(4vw, 5.5vh); /* BASE */
+  font-size: min(4vw, 5.5vh);
   white-space: pre-line;
   text-wrap: unset;
   width: 100%;
@@ -819,7 +819,7 @@ h2,
   .hero-headline,
   .hero-sub,
   .hero-cta {
-    font-size: 8vw;
+    font-size: 7.5vw;
   }
 
   .block-illustration:not(.block-illustration--hero) {

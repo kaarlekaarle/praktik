@@ -1,116 +1,98 @@
 ETUSIVU (FI)
 Helsinkiläinen lakiasiaintoimisto, joka kukoistaa vaikeissa kysymyksissä.
-Ratkaisemme oikeudellisesti
-kiperimmät ongelmasi.
+Ratkaisemme kiperimmät oikeudelliset ongelmasi.
 Ota yhteyttä.
 
 
 FRONT PAGE (EN)
-A Helsinki-based law firm offering bespoke legal counsel.
-We take on legal problems others won't touch.
+A Helsinki law firm offering bespoke legal counsel.
+We solve legal problems others leave untouched.
 Contact us.
 
 
 FRAMSIDA (SV)
-Helsingforsbaserad byrå som erbjuder skräddarsydd juridisk rådgivning.
-Vi bistår med problem som saknar färdiga svar.
+En juristbyrå i Helsingfors för svåra juridiska frågor.
+Vi löser de juridiska problem som andra avstår.
 Kontakta oss.
 
 
-KOTIMAISET YKSITYISASIAT
+YKSITYISASIAT (FI)
 
-Kotimaiset yksityisasiat
+Yksityisasiat
 
-Elämän tärkeimmät asiat, kuten koti ja perhe, ansaitsevat huolenpitoa.
+Koti, perhe ja omaisuus ovat elämän tärkeimmät asiat. Ne ansaitsevat sen mukaista huolenpitoa.
 
 Perhe-elämä ja sen päättyminen
-Avioehto kannattaa tehdä ennen kuin sitä tarvitaan. Avioehdolla voidaan vaikuttaa ositukseen ja sen myötä lopullisen tasingon määrään. Kun
-avioerohakemus on jätetty, hoidamme osituksen valmistelun ja
-neuvottelut. Tarvittaessa edustamme toista osapuolta
-toimitusosituksessa. Lapsen huoltajuus, asuminen,
-tapaamisoikeus ja elatusapu vaativat
-kauaskantoisia ratkaisuja. Kriisitilanteessa ne on vaikea tehdä yksin.
+Avioehto kannattaa laatia silloin, kun asiat ovat vielä hyvin. Se määrittää osituksen lopputuloksen ja mahdollisen tasingon määrän. Hoidamme osituksen valmistelun, neuvottelut ja tarvittaessa edustamme toimitusosituksessa. Lapsen huoltajuus, asuminen, tapaamiset ja elatusapu ovat asioita, joiden seuraukset ulottuvat vuosien päähän. Ne vaativat kauaskantoisia ratkaisuja, joita kriisitilanteessa ei kannata tehdä yksin.
 
 Perintö ja jäämistösuunnittelu
-Perheenjäsenen poismeno herättää kysymyksiä, joihin harvoin on varauduttu. Selkeät järjestelyt vähentävät epäselvyyksiä jo valmiiksi
-vaikeassa tilanteessa. Laadimme testamentteja, legaatteja ja
-edunvalvontavaltuutuksia sekä hoidamme perunkirjoitukset ja
-perinnönjaot. Ennakoimalla voidaan varmistaa, että omaisuus
-jakautuu halutulle taholle ja perintövero pysyy kohtuullisena.
+Perheenjäsenen menetys herättää kysymyksiä, joihin harva on osannut varautua. Selkeät järjestelyt vähentävät epäselvyyksiä jo valmiiksi vaikeassa tilanteessa. Laadimme testamentit ja edunvalvontavaltuutukset kunkin tarpeita vastaaviksi. Hoidamme myös perunkirjoitukset ja perinnönjaot. Ennakoimalla voidaan varmistaa, että omaisuus jakautuu halutulle taholle ja perintövero pysyy kohtuullisena.
 
 Urakka-, asunto- ja kiinteistökauppa
-Kodin ostaminen ja mahdollisen remontin teettäminen kuuluvat elämän suurimpiin yksittäisiin hankintoihin. Ongelmat tulevat usein ilmi vasta kaupanteon jälkeen.
-Kosteus- ja homevauriot,
-rakennusvirheet, piilevät virheet ja oikeudelliset virheet ovat
-meille tuttua maaperää. Edustamme niin ostajia ja myyjiä kuin
-urakoitsijoita ja tilaajia näihin kauppoihin liittyvissä
-riidoissa ja arvioimme mahdollisuutesi kaupan purkuun ja
-hinnanalennukseen.
+Kodin ostaminen ja remontin teettäminen kuuluvat elämän suurimpiin yksittäisiin päätöksiin. Ongelmat paljastuvat usein vasta kaupanteon jälkeen. Rakennusvirheet, piilevät ja oikeudelliset virheet sekä kosteus- ja homevauriot ovat meille tuttua maaperää. Edustamme ostajia, myyjiä, urakoitsijoita ja tilaajia näihin tilanteisiin liittyvissä riidoissa.
 
 Kerro tilanteestasi. Löydämme oikean lähestymistavan.
 
 
-DOMESTIC PRIVATE MATTERS
+PRIVATE MATTERS (EN)
 
-Domestic private matters
+Private matters
 
-The most important things in life, like home and family, deserve care.
+Home, family and assets are the most important things in life. They deserve care accordingly.
 
 Family life and its ending
-A prenuptial agreement is worth making before you need one. It can shape the outcome of a future division of assets and determine any equalisation payment. Once a divorce petition has been filed, we handle the preparation of the division and the negotiations. Where necessary, we represent one party in a court-administered division. Child custody, residence, visitation rights and maintenance all require far-sighted decisions in times of crisis. We help find them.
+A prenuptial agreement is best made when things are still good. It determines the outcome of any future division of matrimonial assets and the amount of any equalisation payment. We prepare the negotiations and division, and where necessary represent in court-administered divisions. Custody, residence, visitation and child support are decisions whose consequences extend years into the future. In a crisis, such decisions should not be made alone.
 
 Inheritance and estate planning
-The loss of a family member raises questions few people have prepared for. Clear arrangements reduce uncertainty in an already difficult time. We draft wills, legacies and powers of attorney, and handle estate inventories and divisions. Estate planning works best when done early — a plan made in good time ensures that assets pass to the right people and inheritance tax remains reasonable.
+The loss of a family member surfaces questions few people are prepared for. Clear arrangements reduce uncertainty in an already difficult time. We draft wills and continuing powers of attorney tailored to each client's needs, and handle estate inventories and divisions. A plan made in good time ensures that assets end up where they ought and that inheritance tax stays reasonable.
 
 Construction, residential and real estate transactions
-Disputes over construction contracts, residential sales and real estate often come down to disagreements about what standard of quality was promised. Water damage, mould, structural defects, latent defects and legal encumbrances are all familiar territory for us. We represent buyers, sellers, contractors and clients in disputes arising from these transactions and assess your prospects for rescission or a price reduction.
+Buying a home and commissioning a renovation rank among the largest single decisions in a person's life. Problems, however, surface often only after the deal is done. Structural defects, latent defects, legal encumbrances and water damage are all familiar territory for us. We represent buyers, sellers, contractors and clients in disputes arising from these transactions.
 
-Tell us about your situation. We will find the right approach.
+Tell us about your situation and we will find the right approach.
 
 
-INHEMSKA PRIVATÄRENDEN (SV)
+PRIVATA ÄRENDEN (SV)
 
-Inhemska privatärenden
+Privata ärenden
 
-De viktigaste sakerna i livet, som hemmet och familjen, förtjänar omsorg.
+De viktigaste sakerna i livet förtjänar att bli behandlade med omsorg.
 
 Familjelivet och dess slut
-Ett äktenskapsförord är värt att upprätta innan du behöver det. Det påverkar utfallet av en eventuell bodelning och storleken på ett eventuellt vederlag. När ansökan om skilsmässa har lämnats in handlägger vi förberedelserna för bodelningen och förhandlingarna. Vid behov företräder vi en part i en av skiftesman förrättad bodelning. Vårdnad, boende, umgängesrätt och underhåll är beslut som är svåra att ändra i efterhand. Vi hjälper till att fatta dem rätt.
+Ett äktenskapsförord upprättas bäst medan allting fortfarande är bra. Det påverkar resultatet av en eventuell bodelning och behovet av eventuellt vederlag. Vi förbereder eventuella förhandlingar och kan slutföra bodelningen. Vid behov företräder vi i bodelningar uträttade av en skiftesman. Frågor gällande vårdnad, boende, umgänge och underhållsbidrag är beslut som har konsekvenser åratal framöver. I en krissituation bör dessa beslut inte fattas utan hjälp.
 
 Arv och boutredning
-Förlusten av en familjemedlem väcker frågor som få har förberett sig på. Klara arrangemang minskar oklarheter i ett redan svårt läge. Vi upprättar testamenten, legat och intressebevakningsfullmakter samt handlägger bouppteckningar och arvskiften. En plan upprättad i god tid ser till att egendomen går dit den ska och att arvsskatten inte blir en överraskning.
+Förlusten av en familjemedlem väcker frågor som få har förberett sig på. Vi upprättar testamenten och intressebevakningsfullmakter enligt era önskemål. Vi handlägger även bouppteckningar och arvskiften. En plan upprättad i god tid försäkrar att egendomen hamnar rätt och att arvsskatten förblir rimlig.
 
 Entreprenad-, bostads- och fastighetsaffärer
-Tvister om entreprenadavtal, bostadsköp och fastigheter handlar ofta om oenighet kring vad som utlovats i kvalitet. Fukt- och mögelskador, byggfel, dolda fel och rättsliga fel är välbekant mark för oss. Vi företräder såväl köpare och säljare som entreprenörer och beställare i tvister som rör dessa affärer och bedömer dina möjligheter till hävning eller prisavdrag.
+Att köpa en bostad och beställa renovering hör till ett av livets största enskilda beslut. Problemen dyker upp ofta först i efterhand. Byggfel, dolda och rättsliga fel samt fukt- och mögelskador är välbekanta ämnen för oss. Vi företräder köpare, säljare, entreprenörer och beställare i tvister som rör dessa affärer.
 
-Berätta om din situation. Vi hittar en väg framåt.
+Berätta om din situation, vi kan upprätta en hållbar lösning.
 
 
-INHEMSKA FÖRETAGSÄRENDEN (SV)
+FÖRETAGSÄRENDEN (SV)
 
-Inhemska företagsärenden
+Företagsärenden
 
-Juridiska frågor i affärslivet kräver någon som förstår både vad lagen tillåter och vad verksamheten faktiskt behöver.
+Affärslivet ställer krav på kunskap av både lag och företagsverksamhet.
 
 Bolagsbildning
-Vi hjälper till att välja rätt bolagsform och sköter de praktiska stegen i bildningsprocessen. Bolagsordningen och aktieägaravtalet sätter villkoren för allt som följer — de förtjänar uppmärksamhet innan något går snett.
+Vi hjälper att välja rätt form av bolag och tar hand om själva processen. Bolagsordningen och aktieägaravtalet kräver uppmärksamhet och noggrann planering innan det är för sent.
 
 Avtal
-Varje avtal är unikt. Vi upprättar alltid det avtal som situationen kräver, efter att ha utvärderat alternativen. Det kan röra sig om ett återförsäljar-, licens-, leverans- eller tjänsteavtal, eller ett aktieägaravtal. Vi formulerar villkoren entydigt så att de håller även under hård granskning och inte lämnar utrymme för motstridiga tolkningar. Om en tvist uppstår företräder vi vår klient från förhandling till rättegång.
+Varje avtalsförhållande är unikt och vi upprättar avtal som situationen kräver. Vi strävar efter entydiga villkor som håller granskning utan att lämna utrymme för motsatta tolkningsalternativ. Vi företräder klienter från avtalsförhandlingar till rättssalen.
 
 Anställning och dess upphörande
-Att avsluta ett anställningsförhållande är alltid något som får konsekvenser för båda parter — och misstag kan bli kostsamma. När arbetsgivaren tar initiativet måste förfarandet vara korrekt. Vi rådger om grunderna för uppsägning och hävning och säkerställer att processen håller. Vi upprättar även anställnings- och chefsavtal samt konkurrensförbuds- och sekretessklausuler.
+Arbetsavtal omfattar ofta komplicerade situationer där misstag kan bli dyra. Om arbetsgivaren har tagit beslutet att avtalet ska upphöra att gälla, måste förfarandet följa en viss process och uppsägningen eller hävningen uppnå särskilda kriterier. Vi rådger båda parter vid tvister och ser till att processen har gått rätt. Vi upprättar även anställnings- och chefsavtal samt konkurrensförbuds- och sekretessklausuler.
 
-Juridiska frågor i affärslivet är sällan okomplicerade. Berätta om er situation.
+Berätta om er situation och anställ oss.
 
 
-KOTIMAISET YRITYSASIAT
+YRITYSASIAT (FI)
 
-Kotimaiset yritysasiat
+Yritysasiat
 
-Yritysten oikeudelliset kysymykset vaativat kumppanin, joka
-ymmärtää lain suomien mahdollisuuksien lisäksi myös kyseistä
-liiketoimintaa.
+Yritys hyötyy eniten juristista, joka ymmärtää liiketoimintaa.
 
 Yrityksen perustaminen
 Autamme valitsemaan oikean yhtiömuodon ja hoidamme perustamisen
@@ -119,49 +101,39 @@ merkitystä ei voi vähätellä; niihin kannattaa kiinnittää
 huomiota riittävän varhaisessa vaiheessa.
 
 Sopimukset
-Jokainen sopimus on erilainen. Laadimme aina kunkin tilanteen
-vaatiman sopimuksen sen jälkeen, kun olemme arvioineet
-vaihtoehdot. Kyse voi olla jälleenmyynti-, lisenssi-, toimitus-
-tai palvelusopimuksesta taikka osakassopimuksesta. Muotoilemme
-ehdoista yksiselitteisiä, jotta ne kestävät ankarammankin
-tarkastelun eivätkä jätä sijaa vastakkaisille tulkinnoille. Jos
-sopimuksista syntyy riita, edustamme asiakastamme neuvotteluista
-oikeudenkäyntiin saakka.
+Jokainen sopimus on erilainen. Laadimme kunkin tilanteen vaatiman sopimuksen sen jälkeen, kun olemme arvioineet vaihtoehdot, oli kyse mistä sopimustyypistä tahansa. Muotoilemme ehdot niin, että ne kestävät ankarimmankin tarkastelun eivätkä jätä sijaa ristiriitaisille tulkinnoille. Jos sopimuksesta syntyy riita, edustamme asiakastamme neuvotteluista oikeudenkäyntiin.
 
 Työsuhde ja sen päättyminen
-Työsuhteen päättyminen koskettaa molempia osapuolia — ja virheet voivat tulla kalliiksi. Työnantajan toimesta tapahtuva päättäminen edellyttää huolellisuutta. Neuvomme irtisanomis- ja purkuperusteissa sekä
-varmistamme, että menettely on oikea. Laadimme työ- ja
-johtajasopimukset sekä kilpailukielto- ja salassapitolausekkeet.
+Työsopimuksia koskevat kysymykset ovat harvoin yksinkertaisia ja työsuhteen päättämiseen liittyvät virheet voivat tulla kalliiksi. Työnantajan toimesta tapahtuva päättäminen edellyttää huolellista menettelyä. Neuvomme molempia osapuolia työsuhteen päättyessä. Laadimme myös työ- ja johtajasopimuksia sekä kilpailukielto- ja salassapitolausekkeita.
 
-Yritysten oikeudelliset kysymykset ovat harvoin yksinkertaisia. Kertokaa tilanteestanne.
+Kertokaa tilanteestanne ja työstämme teille sopivan etenemistavan.
 
 
-DOMESTIC CORPORATE MATTERS
+CORPORATE MATTERS (EN)
 
-Domestic corporate matters
+Corporate matters
 
-Legal questions in business need someone who understands both what the law permits and what the business actually needs.
+Legal questions in business need an adviser who understands the law and the business behind it.
 
 Company formation
-We help choose the right corporate structure and handle the practical steps of incorporation. The articles of association and shareholders' agreement set the terms for everything that follows — they deserve attention before anything goes wrong.
+We help choose the right corporate structure and handle the practical steps of incorporation. The articles of association and shareholders' agreement set the terms for everything that follows. They deserve proper planning before anything goes wrong.
 
 Contracts
-Every contract is different. We draft each one to fit the specific situation, after ruling out alternatives. Whether it is a distribution, licence, supply or service agreement, or a shareholders' agreement, we make the terms unambiguous so they hold up under scrutiny and leave no room for conflicting interpretations. If a dispute arises, we represent our client from negotiation through to litigation.
+Every contractual situation is different. We draft contracts that serve your needs and fit the specific circumstances, whatever the contract type. We make the terms precise enough to hold up under any scrutiny and leave no room for misinterpretation. We represent in contractual disputes from initial negotiations through litigation.
 
 Employment and its ending
-Ending an employment relationship is always consequential for both sides — and mistakes are costly. When the employer initiates it, the procedure has to be right. We advise on the grounds for dismissal and termination and make sure the process holds. We also draft employment and executive agreements, and non-compete and confidentiality clauses.
+Labour contracts and ending an employment relationship — mistakes prove costly. If the relationship is ended by the employer, the procedure has to follow specific criteria. We advise both parties and make sure the procedural requirements are met. We also draft employment and executive agreements, and non-compete and confidentiality clauses.
 
-Every situation is different. Tell us about yours.
+Every situation is different. Employ us.
 
 KANSAINVÄLISET YRITYSASIAT
 
 Kansainväliset yritysasiat
 
-Varmistamme, että huomio Suomen markkinoilla toimiessa
-keskittyy mahdollisuuksiin eikä yllätyksiin.
+Varmistamme, että ulkomaisten yritysten huomio Suomen markkinoilla toimiessa keskittyy mahdollisuuksiin eikä yllätyksiin.
 
 Markkinoille tulo ja yrityksen perustaminen
-Tytäryhtiö vai sivuliike? Neuvomme yhtiömuodon valinnassa, osakepääomavaatimuksissa ja ETA-johtajasäännöissä. Kiinteän toimipaikan perustaminen voi synnyttää verotuksellisen riskin, jonka arvioimme ennen päätöstä. Hoidamme perustamisen käytännön vaiheet kaupparekisteri-ilmoituksista pankkitilin avaamiseen.
+Tytäryhtiö vai sivuliike? Neuvomme yhtiömuodon valinnassa, osakepääomavaatimuksissa ja ETA-johtajasäännöissä. Toiminnan luonteesta riippuen Suomeen voi syntyä kiinteä toimipaikka, jolla on tiettyjä veroseuraamuksia, ja jotka voidaan huomioida harkinnassa. Hoidamme perustamisen käytännön vaiheet, kuten kaupparekisteri-ilmoituksista pankkitilin avaamiseen.
 
 GDPR ja tietosuoja
 Autamme tietosuoja-asetuksen soveltamisessa —
@@ -172,20 +144,20 @@ digitalisaation, automaattisen päätöksenteon ja tekoälyn
 vaikutusta sääntelyyn jatkuvasti, ja neuvomme ennen kuin
 muutos tulee voimaan.
 
-Työoikeus kansainvälisille työnantajille
-Suomalaiset työehtosopimukset ja työlupakäytännöt ovat ulkomaiselle työnantajalle usein vieraita. Hoidamme työsopimukset, työskentelyluvat ja perheen oleskeluluvat sekä lähetettyjen työntekijöiden ilmoitukset. Selvitämme 183 päivän säännön ja verosopimusten soveltamisen työntekijän verotukseen ja laadimme kilpailukielto- ja johtajasopimukset.
+Kansainväliset työnantajat
+Suomalaiset työehtosopimukset ja työlupakäytännöt ovat ulkomaiselle työnantajalle usein tuntemattomia. Hoidamme työsopimukset, työskentelyluvat ja perheen oleskeluluvat sekä lähetettyjen työntekijöiden ilmoitukset. Selvitämme 183 päivän säännön ja verosopimusten soveltamisen työntekijän verotukseen ja laadimme kilpailukielto- ja johtajasopimukset.
 
-Kertokaa tilanteestanne niin etsitään ratkaisu yhdessä.
+Kertokaa tilanteestanne ja etsitään ratkaisu yhdessä.
 
 
 INTERNATIONELLA FÖRETAGSÄRENDEN (SV)
 
 Internationella företagsärenden
 
-Vi säkerställer att uppmärksamheten vid verksamhet på den finska marknaden riktas mot möjligheter snarare än överraskningar.
+Vi hjälper utländska företag att navigera på den finska marknaden så att företaget kan fokusera på sin affärsverksamhet snarare än förvänta sig överraskningar.
 
 Marknadsetablering och bolagsbildning
-Dotterbolag eller filial? Vi rådger om val av bolagsform, aktiekapitalkrav och EES-direktörskrav. Etablering av fast driftställe kan medföra skattemässiga risker, vilket vi bedömer innan beslut fattas. Vi sköter de praktiska stegen i bildningsprocessen från handelsregisteranmälningar till öppnande av bankkonto.
+Ett dotterbolag eller en filial? Vi rådger om val av bolagsform, aktiekapital och EES-direktörskrav. Etablering av fast driftställe kan medföra skattemässiga risker, vilket vi bedömer innan beslut fattas. Vi sköter de praktiska stegen i bildningsprocessen från handelsregisteranmälningar till öppnande av bankkonto.
 
 GDPR och dataskydd
 Vi arbetar med företag kring GDPR-efterlevnad: konsekvensbedömningar, personuppgiftsbiträdesavtal och anmälningsskyldigheten vid dataintrång. Vi fungerar vid behov som externt dataskyddsombud. Regleringen på det här området rör sig snabbt — vi följer den så att våra klienter inte behöver göra det.
@@ -193,41 +165,41 @@ Vi arbetar med företag kring GDPR-efterlevnad: konsekvensbedömningar, personup
 Arbetsrätt för internationella arbetsgivare
 Finska kollektivavtal och regler för arbetstillstånd tar många utländska arbetsgivare på sängen. Vi handlägger anställningsavtal, arbetstillstånd och uppehållstillstånd för familjemedlemmar samt anmälningar för utstationerade arbetstagare. Vi utreder hur den så kallade 183-dagarsregeln och skatteavtalen tillämpas på arbetstagarens beskattning och upprättar konkurrensförbuds- och chefsavtal.
 
-Berätta om er situation så hittar vi en lösning tillsammans.
+Berätta om er situation. Vi hittar en lösning tillsammans.
 
 
 INTERNATIONAL CORPORATE MATTERS
 
 International corporate matters
 
-We ensure that operating in the Finnish market stays focused on opportunities rather than surprises.
+We help foreign businesses navigate the Finnish market, so that attention stays on opportunities rather than surprises.
 
 Market entry and company establishment
-Subsidiary or branch? We advise on the choice of corporate structure, share capital requirements and EEA director rules. Establishing a permanent establishment may create a tax risk, which we assess before any decision is made. We handle the practical steps of incorporation from trade register filings to opening a bank account.
+Subsidiary or branch? We advise on the choice of corporate structure, share capital requirements and EEA director rules. Establishing a permanent establishment may create tax obligations, which we assess before any decisions are made. We handle the practical steps from trade register filings to opening a bank account.
 
 GDPR and data protection
 We work with companies on GDPR compliance: impact assessments, data processing agreements, and breach notification obligations. We act as an outsourced data protection officer where needed. Regulation in this area moves fast — we follow it so our clients don't have to.
 
-Employment law for international employers
-Finnish collective agreements and work permit rules catch many foreign employers off guard. We handle employment contracts, work permits and family residence permits, and manage posted worker notifications. We clarify the application of the so-called 183-day rule and tax treaty provisions to employee taxation, and draft non-compete and executive agreements.
+Employment for international employers
+Finnish collective agreements and work permit rules catch many foreign employers off guard. We handle employment contracts, work permits and family residence permits, and manage posted worker notifications. We clarify the 183-day rule and tax treaty provisions to employee taxation, and draft non-compete and executive agreements.
 
-Tell us about your situation and we will find a solution together.
+Tell us about your situation — we will find a solution together.
 
 
 KANSAINVÄLISET YKSITYISASIAT
 
 Kansainväliset yksityisasiat
 
-Elämä ei rajoitu valtioiden rajoihin. Me autamme kun oikeudelliset kysymykset ulottuvat useampaan maahan.
+Elämän vaikutukset eivät noudata valtioiden rajoja. Me autamme, kun oikeudelliset kysymykset ulottuvat Suomen ulkopuolelle.
 
 Kiinteistön hankinta Suomesta
 EU- ja ETA-alueen ulkopuoliset ostajat tarvitsevat luvan tiettyihin kiinteistöihin. Selvitämme lupatarpeen ja hoidamme hakemuksen tarvittaessa. Tarkastamme kauppakirjat, teemme taustaselvitykset ja edustamme ostajaa kaupantekotilaisuudessa.
 
 Kansainvälinen avioero ja perheoikeus
-Kun avioeroon liittyy rajat ylittävä kytkös, ensin on ratkaistava tuomioistuimen toimivalta, sovellettava laki ja tuomioiden tunnustaminen. Hoidamme omaisuuden jakamisen usean maan välillä, laadimme avioehtoja ja avustamme kansainvälisissä huoltajuusasioissa. Tämä kattaa myös Haagin lapsikaappaussopimuksen mukaiset tapaukset.
+Kun avioeron vaikutukset ylittävät yhden valtion rajat, on ensiksi ratkaistava minkä maan tuomioistuimella on toimivalta käsitellä asia, sovellettavaksi tulevan maan laki sekä mahdollisuudet tuomion tunnustamiseen toisessa valtiossa. Hoidamme omaisuuden jakamisen usean maan välillä, laadimme avioehtoja monikansallisia avioliittoja varten ja avustamme kansainvälisissä lapsiasioissa. Hoidamme myös Haagin lapsikaappaussopimuksen mukaisia tapauksia.
 
 Rajat ylittävä perintösuunnittelu
-EU:n perintöasetus määrittää kuolinpesään sovellettavan lain, mutta testamentilla tästä voi tietyin edellytyksin poiketa. Hoidamme pesänselvityksen ja perinnönjaon, kun pesä ulottuu useaan valtioon, ja selvitämme perintöverovelvollisuuden kunkin tapauksen kohdalla erikseen.
+EU:n perintöasetus on vain yksi monista säädöksistä, joka määrittää minkä maan lakia kuolinpesään sovelletaan. Asetus sallii olettamasäännöistä poikkeamisen tietyin edellytyksin, esimerkiksi testamentin määräyksellä. Hoidamme useaan valtioon ulottuvat pesänselvitykset ja perinnönjaot sekä selvitämme tilanteesta aiheutuvat mahdolliset verovelvollisuudet kunkin tapauksen kohdalla erikseen.
 
 Jokainen tilanne on erilainen. Kerro omastasi.
 
@@ -236,16 +208,16 @@ INTERNATIONAL PRIVATE MATTERS
 
 International private matters
 
-Life does not stop at borders — we assist when legal questions extend across more than one country.
+Life does not follow state borders. We help when legal questions have cross-border effects.
 
 Acquiring property in Finland
 Buyers from outside the EU and EEA require a permit for certain types of property. We establish whether a permit is needed and handle the application where necessary. We review purchase agreements, conduct background checks and represent the buyer at the closing.
 
-International divorce and family law
-When a divorce has a cross-border dimension, the first questions to resolve are jurisdiction, applicable law and the recognition of judgments. We handle the division of assets across multiple jurisdictions, draft prenuptial agreements and assist with international custody matters. This includes cases under the Hague Convention on international child abduction.
+International family law
+When a marriage involves multiple nationalities and domiciles, we can assist with prenuptial agreements. In the case of a divorce, we help with the division of assets and assist with custody, meeting rights and child support matters, including cases under the Hague Convention on international child abduction. These situations involve questions concerning court jurisdiction, the applicable law and the recognition of judgments.
 
 Cross-border estate planning
-The EU Succession Regulation determines which country's law applies to an estate. A will can, under certain conditions, override this. We handle estate administration and distribution when an estate extends across several countries, and assess any inheritance tax liability on a case-by-case basis.
+The EU Succession Regulation determines which country's law applies to an estate. We handle estate administration and distribution when an estate spans several borders, and assess questions concerning the possibility of tax liability.
 
 Every situation is different. Tell us about yours.
 
@@ -255,16 +227,16 @@ INTERNATIONELLA PRIVATÄRENDEN (SV)
 
 Internationella privatärenden
 
-Livet stannar inte vid landsgränser — vi bistår när juridiska frågor sträcker sig över mer än ett land.
+Livet följer inte statliga gränser. Vi hjälper till när juridiska frågor korsar dem.
 
 Förvärv av fastighet i Finland
 Köpare från länder utanför EU och EES behöver tillstånd för vissa typer av fastigheter. Vi utreder om tillstånd krävs och handlägger ansökan vid behov. Vi granskar köpebrev, genomför bakgrundsutredningar och företräder köparen vid tillträdet.
 
-Internationell skilsmässa och familjerätt
-När en skilsmässa har en gränsöverskridande dimension är de första frågorna att lösa domstolsbehörighet, tillämplig lag och erkännande av domar. Vi handlägger fördelningen av tillgångar mellan flera länder, upprättar äktenskapsförord och bistår i internationella vårdnadstvister. Detta inkluderar ärenden enligt Haagkonventionen om internationella bortföranden av barn.
+Internationell familjerätt
+Vid äktenskap där makarna är av olika nationalitet eller har skild hemvist kan vi upprätta äktenskapsförord. Vi bistår även vid skilsmässor med gränsöverskridande dimensioner. Vi handlägger bodelningen och hjälper med frågor som berör vårdnad av barn, även när ärendena berör internationella bortföranden av barn enligt Haagkonventionen.
 
 Gränsöverskridande arvsplanering
-EU:s arvsförordning fastställer vilket lands lag som tillämpas på ett dödsbo. Ett testamente kan under vissa förutsättningar avvika från detta. Vi handlägger boutredning och arvskifte när boet sträcker sig över flera länder och utreder eventuell arvsskatteskyldighet för varje enskilt fall.
+EU:s arvsförordning fastställer vilket lands lag som tillämpas på ett dödsbo. Vi handlägger boutredning och arvskifte när boet sträcker sig över flera länder och utreder eventuell arvsskatteskyldighet för varje enskilt fall.
 
 Varje situation är unik. Berätta om din situation.
 
@@ -273,7 +245,7 @@ RIIDANRATKAISU
 
 Riidanratkaisu
 
-Paras riita on se joka ratkeaa edukkaasti ennen oikeudenkäyntiä.
+Paras riita on se joka ratkeaa ennen oikeudenkäyntiä.
 Toiseksi paras on se joka voitetaan oikeudessa.
 
 Useimmat riidat on mahdollista ratkaista ilman oikeudenkäyntiä,
@@ -293,7 +265,7 @@ DISPUTE RESOLUTION
 
 Dispute resolution
 
-The best dispute is one resolved favourably before going to court. The second best is one won in court.
+The best dispute is one resolved before court. The second best is one won in court.
 
 Most disputes can be resolved without litigation, and we assess realistic options together before proceeding. If negotiation does not lead to the desired outcome, we represent our client before the district court, court of appeal and supreme court, in both domestic and international disputes. We handle arbitration proceedings under commercial contracts from start to enforcement.
 
@@ -306,7 +278,7 @@ TVISTELÖSNING (SV)
 
 Tvistelösning
 
-Den bästa tvisten är den som löses fördelaktigt utan rättegång. Den näst bästa är den som vinns i domstol.
+Den bästa tvisten är den som löses utan rättegång. Den näst bästa är den som vinns i domstol.
 
 De flesta tvister kan lösas utan rättegång, och vi bedömer realistiska alternativ tillsammans innan vi går vidare. Om förhandlingen inte leder till önskat resultat företräder vi vår klient i tingsrätten, hovrätten och högsta domstolen, i såväl inhemska som internationella tvister. Vi handlägger skiljeförfaranden enligt kommersiella avtal från start till verkställighet.
 
