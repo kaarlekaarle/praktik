@@ -144,7 +144,7 @@ async function injectIllustration() {
   for (const container of containers) {
     const name = container.dataset.illustration;
     try {
-      const res = await fetch(`/illustrations/${name}.svg`);
+      const res = await fetch(`/praktik/illustrations/${name}.svg`);
       if (!res.ok) continue;
       const text = await res.text();
       const parser = new DOMParser();
@@ -168,8 +168,8 @@ async function injectIllustration() {
 }
 
 export async function initPage(language, slug) {
-  const navPath = `/components/nav-${language}.html`;
-  const footerPath = `/components/footer.html`;
+  const navPath = `/praktik/components/nav-${language}.html`;
+  const footerPath = `/praktik/components/footer.html`;
 
   await Promise.all([
     loadComponent(navPath, 'nav-placeholder'),
