@@ -389,7 +389,7 @@ a {
   opacity: 0.6;
 }
 
-/* Desktop: contact block duplicates footer; keep on small screens for tap targets + languages line. */
+/* Contact details: visible on mobile only — footer covers this info on desktop */
 @media (min-width: 769px) {
   .page-yhteystiedot .contact-details {
     display: none;
@@ -764,10 +764,9 @@ h2,
   min-height: clamp(7rem, 18vw, 13rem);
 }
 
-/* First left-column section illustration only (before the right-aligned block):
-   vertically in the band before the opposite column; horizontally flush with
-   the left edge of that column. Excluded selectors and right-column illustrations
-   use inline --il-* for positioning. */
+/* Left-column illustration auto-positioning on desktop.
+      Add :not([data-illustration="name"]) for any left-block illustration
+      that uses custom --il-* values instead of this auto rule. */
 @media (min-width: 769px) {
   .page-content
     > .block-example:not(.block-example--right):has(+ .block-example--right)
