@@ -446,6 +446,7 @@ a {
 textarea.contact-field.contact-field--message {
   min-height: 175px;
   height: 175px;
+  overflow-y: auto;
   field-sizing: fixed;
   resize: none;
 }
