@@ -68,7 +68,7 @@ function updateLangSwitcher(language, slug) {
     const langSlug = mapping[lang];
     if (!langSlug) return;
 
-    item.href = `/${lang}/${langSlug}.html`;
+    item.href = `/praktik/${lang}/${langSlug}.html`;
     item.classList.toggle('is-active', lang === language);
   });
 }
