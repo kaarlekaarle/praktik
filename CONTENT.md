@@ -279,8 +279,7 @@ Kontakta oss.
 
 YHTEYSTIEDOT (FI)
 Ota yhteyttä
-Keskustellaan, miten voimme auttaa.
-Varaa aika tästä
+Lomake: Viesti (ylhäällä), Nimi ja Sähköposti tai puhelin (45 % / 55 %), Lähetä.
 contact@praktik.fi
 +358 (0) 45 178 00 03
 Hitsaajankatu 22–24, 00810 Helsinki
@@ -288,8 +287,7 @@ Palvelemme suomeksi, ruotsiksi ja englanniksi
 
 CONTACT (EN)
 Contact us
-Let's talk about how we can help.
-Book an appointment
+Form: Message (top), Name and Email or phone (45% / 55%), Send.
 contact@praktik.fi
 +358 (0) 45 178 00 03
 Hitsaajankatu 22–24, 00810 Helsinki
@@ -297,8 +295,7 @@ We serve clients in Finnish, Swedish and English.
 
 KONTAKT (SV)
 Kontakta oss
-Låt oss tala om hur vi kan hjälpa.
-Boka ett möte
+Formulär: Meddelande (överst), Namn och E-post eller telefon (45 % / 55 %), Skicka.
 contact@praktik.fi
 +358 (0) 45 178 00 03
 Hitsaajankatu 22–24, 00810 Helsinki

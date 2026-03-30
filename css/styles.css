@@ -389,6 +389,13 @@ a {
   opacity: 0.6;
 }
 
+/* Desktop: contact block duplicates footer; keep on small screens for tap targets + languages line. */
+@media (min-width: 769px) {
+  .page-yhteystiedot .contact-details {
+    display: none;
+  }
+}
+
 .contact-form {
   display: flex;
   flex-direction: column;
@@ -404,10 +411,15 @@ a {
   gap: var(--spacing-m);
 }
 
+/* Yhteystiedot: message first; name / contact share row in a 45 : 55 ratio (gap excluded from tracks). */
+.page-yhteystiedot .contact-form .contact-form-row {
+  grid-template-columns: 45fr 55fr;
+}
+
 .contact-field {
   width: 100%;
   background-color: color-mix(in srgb, var(--color-bg) 90%, transparent);
-  border: 1px solid var(--color-content);
+  border: 1px solid color-mix(in srgb, var(--color-content) 60%, transparent);
   color: var(--color-content);
   font-family: var(--font-body-medium);
   font-size: var(--font-size-small);
@@ -470,6 +482,10 @@ textarea.contact-field.contact-field--message {
 
 @media (max-width: 680px) {
   .contact-form-row {
+    grid-template-columns: 1fr;
+  }
+
+  .page-yhteystiedot .contact-form .contact-form-row {
     grid-template-columns: 1fr;
   }
 }

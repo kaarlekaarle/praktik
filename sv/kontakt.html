@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Kontakta Praktik i Helsingfors. Vi betjänar på finska, svenska och engelska. Boka ett möte online." />
+    <meta name="description" content="Kontakta Praktik i Helsingfors. Skicka ett meddelande till oss online. Vi betjänar på finska, svenska och engelska." />
     <title>Kontakta oss – Praktik</title>
 
     <link rel="alternate" hreflang="fi" href="https://praktik.fi/fi/yhteystiedot.html" />
@@ -18,7 +18,7 @@
     <meta property="og:image:height" content="630" />
     <meta property="og:locale" content="sv_FI" />
     <meta property="og:title" content="Kontakta oss – Praktik" />
-    <meta property="og:description" content="Kontakta Praktik i Helsingfors. Vi betjänar på finska, svenska och engelska. Boka ett möte online." />
+    <meta property="og:description" content="Kontakta Praktik i Helsingfors. Skicka ett meddelande till oss online. Vi betjänar på finska, svenska och engelska." />
     <meta property="og:url" content="https://praktik.fi/sv/kontakt.html" />
 
     <link rel="icon" href="/favicon.svg?v=2" type="image/svg+xml">
@@ -66,8 +66,17 @@
     <main class="site-main">
       <div class="contact-inner">
         <h1>Kontakta oss</h1>
-        <p class="contact-sub">Låt oss tala om hur vi kan hjälpa.</p>
-        <a href="mailto:contact@praktik.fi" class="contact-cta">Boka ett möte</a>
+
+        <form class="contact-form" action="#" method="POST">
+          <textarea class="contact-field contact-field--message" name="viesti" placeholder="Meddelande" autocomplete="off" required></textarea>
+          <div class="contact-form-row">
+            <input class="contact-field" type="text" name="nimi" placeholder="Namn" autocomplete="name" required>
+            <input class="contact-field" type="text" name="yhteystieto" placeholder="E-post eller telefon" autocomplete="email" required>
+          </div>
+          <button class="contact-submit" type="submit">Skicka</button>
+          <p class="contact-success" hidden>Meddelandet har skickats.</p>
+        </form>
+
         <div class="contact-details">
           <a href="mailto:contact@praktik.fi">contact@praktik.fi</a>
           <a href="tel:+358451780003">+358 (0) 45 178 00 03</a>

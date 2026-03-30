@@ -68,12 +68,12 @@
         <h1>Ota yhteyttä</h1>
 
         <form class="contact-form" action="#" method="POST">
+          <textarea class="contact-field contact-field--message" name="viesti" placeholder="Viesti" autocomplete="off" required></textarea>
           <div class="contact-form-row">
             <input class="contact-field" type="text" name="nimi" placeholder="Nimi" autocomplete="name" required>
             <input class="contact-field" type="text" name="yhteystieto" placeholder="Sähköposti tai puhelin" autocomplete="email" required>
           </div>
-          <textarea class="contact-field contact-field--message" name="viesti" placeholder="Viesti" autocomplete="off" required></textarea>
-          <button class="contact-submit" type="submit">Ota yhteyttä.</button>
+          <button class="contact-submit" type="submit">Lähetä</button>
           <p class="contact-success" hidden>Viesti lähetetty.</p>
         </form>
 
