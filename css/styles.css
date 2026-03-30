@@ -346,7 +346,7 @@ a {
 .page-yhteystiedot .contact-sub {
   font-family: var(--font-display);
   font-style: italic;
-  font-size: clamp(1.1rem, 2vw, 2rem);
+  font-size: clamp(1.15rem, 2vw + 1rem, 3rem);
   line-height: 1.25;
   margin: 0;
   color: var(--color-content);
@@ -372,7 +372,8 @@ a {
   flex-direction: column;
   align-items: center;
   gap: 0.1rem;
-  font-family: var(--font-display);
+  margin-top: clamp(2rem, 5vh, 4rem);
+  font-family: var(--font-display-medium);
   font-size: var(--font-size-small);
   line-height: 1.4;
   color: var(--color-content);
@@ -386,6 +387,91 @@ a {
 
 .page-yhteystiedot .contact-details a:hover {
   opacity: 0.6;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-m);
+  width: 100%;
+  max-width: 600px;
+  text-align: left;
+}
+
+.contact-form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-m);
+}
+
+.contact-field {
+  width: 100%;
+  background-color: color-mix(in srgb, var(--color-bg) 90%, transparent);
+  border: 1px solid var(--color-content);
+  color: var(--color-content);
+  font-family: var(--font-body-medium);
+  font-size: var(--font-size-small);
+  padding: 0.75rem var(--spacing-m);
+  outline: none;
+  transition: background-color 150ms ease, border-color 150ms ease;
+  box-sizing: border-box;
+  appearance: none;
+  -webkit-appearance: none;
+  border-radius: 2px;
+  min-height: 48px;
+}
+
+.contact-field::placeholder {
+  color: var(--color-content);
+  opacity: 0.6;
+}
+
+.contact-field:focus {
+  background-color: color-mix(in srgb, var(--color-bg) 95%, transparent);
+  border-color: var(--color-content);
+}
+
+textarea.contact-field.contact-field--message {
+  min-height: 175px;
+  height: 175px;
+  field-sizing: fixed;
+  resize: none;
+}
+
+.contact-submit {
+  align-self: center;
+  text-align: center;
+  background: transparent;
+  border: none;
+  color: var(--color-content);
+  font-family: var(--font-display);
+  font-size: clamp(1.1rem, 1.5vw + 0.25rem, 1.75rem);
+  line-height: 1.2;
+  padding: 0.75rem var(--spacing-xl);
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.12em;
+  text-decoration-skip-ink: auto;
+  transition: opacity 200ms ease;
+}
+
+.contact-submit:hover {
+  opacity: 0.6;
+}
+
+.contact-success {
+  font-family: var(--font-display);
+  font-size: var(--font-size-small);
+  color: var(--color-content);
+  margin: 0;
+  text-align: center;
+}
+
+@media (max-width: 680px) {
+  .contact-form-row {
+    grid-template-columns: 1fr;
+  }
 }
 
 body.page-inner {
@@ -669,7 +755,7 @@ h2,
 @media (min-width: 769px) {
   .page-content
     > .block-example:not(.block-example--right):has(+ .block-example--right)
-    > .block-illustration:not(.block-illustration--hero):not([data-illustration="rikki"]):not([data-illustration="korpo"]) {
+    > .block-illustration:not(.block-illustration--hero):not([data-illustration="rikki"]):not([data-illustration="kokous"]) {
     --il-top: calc(100% + var(--spacing-xl) * 0.55);
     --il-bottom: auto;
     --il-right: auto;

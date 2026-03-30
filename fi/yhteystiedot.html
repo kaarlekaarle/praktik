@@ -35,7 +35,7 @@
       "alternateName": "Lakiasiaintoimisto Praktik Oy",
       "url": "https://praktik.fi",
       "logo": "https://praktik.fi/og-image.png",
-      "description": "Praktik on helsinkiläinen lakiasiaintoimisto, joka hoitaa oikeudelliset ongelmat räätälintyönä. Autamme ongelmissa joihin ei ole valmiita ratkaisuja.",
+      "description": "Praktik on helsinkiläinen lakiasiaintoimisto, joka kukoistaa vaikeissa kysymyksissä. Ratkaisemme kiperimmät oikeudelliset ongelmasi.",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Hitsaajankatu 22–24",
@@ -66,8 +66,17 @@
     <main class="site-main">
       <div class="contact-inner">
         <h1>Ota yhteyttä</h1>
-        <p class="contact-sub">Keskustellaan,<br>miten voimme auttaa.</p>
-        <a href="mailto:contact@praktik.fi" class="contact-cta">Varaa aika tästä</a>
+
+        <form class="contact-form" action="#" method="POST">
+          <div class="contact-form-row">
+            <input class="contact-field" type="text" name="nimi" placeholder="Nimi" autocomplete="name" required>
+            <input class="contact-field" type="text" name="yhteystieto" placeholder="Sähköposti tai puhelin" autocomplete="email" required>
+          </div>
+          <textarea class="contact-field contact-field--message" name="viesti" placeholder="Viesti" autocomplete="off" required></textarea>
+          <button class="contact-submit" type="submit">Ota yhteyttä.</button>
+          <p class="contact-success" hidden>Viesti lähetetty.</p>
+        </form>
+
         <div class="contact-details">
           <a href="mailto:contact@praktik.fi">contact@praktik.fi</a>
           <a href="tel:+358451780003">+358 (0) 45 178 00 03</a>
