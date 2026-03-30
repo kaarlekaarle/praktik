@@ -975,6 +975,41 @@ h2,
     min-height: 0;
   }
 
+  /* Hero art: desktop uses wide absolute offsets that inflate scroll on small screens.
+     Clip to intro + viewport-bounded SVG — no stray overflow; scrolls with the section. */
+  .block-intro:has(.block-illustration--hero) {
+    position: relative;
+    z-index: 1;
+    max-width: 100%;
+    overflow: clip;
+    padding-top: min(40dvh, 56vw);
+  }
+
+  .block-illustration--hero {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    width: 100%;
+    height: min(38dvh, 52vw);
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 0;
+    pointer-events: none;
+    transform: none;
+  }
+
+  .block-illustration--hero svg {
+    width: auto;
+    height: auto;
+    max-width: min(92vw, 100%);
+    max-height: min(36dvh, 80vw);
+    flex-shrink: 0;
+  }
+
   .block-example {
     width: 100%;
   }
@@ -1022,6 +1057,35 @@ h2,
   .page-riidanratkaisu .block-summary {
     padding-top: var(--spacing-l);
     padding-bottom: var(--spacing-xl);
+  }
+
+  /* Contact: long form + details need vertical scroll (fixed viewport clips overflow). */
+  .page-yhteystiedot.page-fixed-frame {
+    overflow: auto;
+    height: auto;
+    min-height: 100dvh;
+  }
+
+  .page-yhteystiedot.page-fixed-frame .site-nav {
+    position: sticky;
+    top: 0;
+  }
+
+  .page-yhteystiedot.page-fixed-frame .site-main {
+    /* static ignores z-index — fixed illustration was painting over fields */
+    position: relative;
+    z-index: 1;
+    top: auto;
+    bottom: auto;
+    left: auto;
+    right: auto;
+    display: block;
+    padding: var(--spacing-xl) var(--inset);
+  }
+
+  .page-yhteystiedot.page-fixed-frame #footer {
+    position: static;
+    padding-bottom: var(--inset);
   }
 
   .page-fixed-frame #footer {
