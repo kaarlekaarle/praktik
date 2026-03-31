@@ -671,6 +671,13 @@ h2,
   justify-content: center;
 }
 
+/* .hero is a row flex container; default flex-shrink lets .section-inner shrink to
+   content width so width:100% + padding never opens up — lock main size to full row. */
+.hero .section-inner {
+  flex: 0 0 100%;
+  min-width: 0;
+}
+
 .illustration {
   position: fixed;
   top: 0;
@@ -816,7 +823,7 @@ h2,
 /* State 3: mobile — show hamburger, hide desktop nav */
 @media (max-width: 768px) {
   .section-inner {
-    padding-inline: var(--inset);
+    padding-inline: calc(var(--inset) * 0.25);
   }
 
   .br-mobile {
@@ -945,10 +952,23 @@ h2,
     max-height: 100%;
   }
 
+  /* Mobile hero font: max size per language to fit longest line without wrapping */
   .hero-headline,
   .hero-sub,
   .hero-cta {
     font-size: min(4.1vw, 5.5vh);
+  }
+
+  :lang(fi) .hero-headline,
+  :lang(fi) .hero-sub,
+  :lang(fi) .hero-cta {
+    font-size: min(5.2vw, 5.5vh);
+  }
+
+  :lang(sv) .hero-headline,
+  :lang(sv) .hero-sub,
+  :lang(sv) .hero-cta {
+    font-size: min(4.6vw, 5.5vh);
   }
 
   .block-intro {
