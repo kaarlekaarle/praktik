@@ -896,12 +896,14 @@ h2,
     padding: 0;
     display: flex;
     flex-direction: column;
-    gap: var(--spacing-xs);
+    gap: var(--spacing-s);
     margin-top: var(--spacing-l);
   }
 
+  /* Mobile nav font size: 75% of desktop overlay size */
   .nav-mobile-list .nav-link {
-    font-size: 0.875rem;
+    font-size: calc(1.75rem * 0.75);
+    line-height: 2;
     white-space: normal;
   }
 
@@ -914,7 +916,18 @@ h2,
     padding-bottom: var(--inset);
   }
 
-  .page-index .illustration,
+  /* Mobile nav font size: 75% of desktop overlay size */
+  .nav-mobile-lang .nav-lang-item,
+  .nav-mobile-lang .nav-lang-divider {
+    font-size: calc(1.75rem * 0.75);
+  }
+
+  .page-index .illustration {
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+
   .page-yhteystiedot .illustration {
     width: 100%;
     height: 100%;
@@ -922,21 +935,52 @@ h2,
     left: 0;
   }
 
+  .page-index .illustration {
+    top: var(--nav-height);
+    bottom: 0;
+    height: auto;
+  }
+
+  .page-index .illustration svg {
+    max-height: 100%;
+  }
+
   .hero-headline,
   .hero-sub,
   .hero-cta {
-    font-size: 7.5vw;
+    font-size: min(4.1vw, 5.5vh);
   }
 
-  .block-illustration:not(.block-illustration--hero) {
-    position: static;
-    width: 85%;
-    margin: var(--spacing-xl) auto var(--spacing-m);
-    top: unset;
-    right: unset;
-    bottom: unset;
-    left: unset;
-    transform: none;
+  .block-intro {
+    padding-bottom: 0;
+  }
+
+  .page-content {
+    row-gap: var(--spacing-l);
+  }
+
+  .page-inner .site-main {
+    padding-top: var(--spacing-l);
+  }
+
+  .block-summary {
+    padding-top: var(--spacing-l);
+  }
+
+  /* Mobile illustration system — fully independent from desktop */
+  .block-illustration,
+  .block-illustration--hero {
+    position: static !important;
+    width: 80% !important;
+    max-width: 360px;
+    margin: var(--spacing-l) auto 0 !important;
+    top: unset !important;
+    right: unset !important;
+    bottom: unset !important;
+    left: unset !important;
+    transform: none !important;
+    z-index: 0;
+    display: block;
   }
 
   .page-content > .block-illustration.block-illustration--standalone {
@@ -944,43 +988,20 @@ h2,
     min-height: 0;
   }
 
-  /* Hero art: desktop uses wide absolute offsets that inflate scroll on small screens.
-     Clip to intro + viewport-bounded SVG — no stray overflow; scrolls with the section. */
   .block-intro:has(.block-illustration--hero) {
     position: relative;
     z-index: 1;
     max-width: 100%;
-    overflow: clip;
-    padding-top: min(40dvh, 56vw);
-  }
-
-  .block-illustration--hero {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: auto;
-    width: 100%;
-    height: min(38dvh, 52vw);
-    margin: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 0;
-    pointer-events: none;
-    transform: none;
-  }
-
-  .block-illustration--hero svg {
-    width: auto;
-    height: auto;
-    max-width: min(92vw, 100%);
-    max-height: min(36dvh, 80vw);
-    flex-shrink: 0;
+    overflow: visible;
+    padding-top: 0;
   }
 
   .block-example {
     width: 100%;
+  }
+
+  .block-example h2 {
+    font-size: 1.2rem;
   }
 
   .block-example--right {
@@ -1010,6 +1031,11 @@ h2,
     right: auto;
     display: block;
     padding: var(--spacing-xl) var(--inset);
+  }
+
+  .page-riidanratkaisu .page-content--centered {
+    max-width: var(--container-max);
+    padding-inline: 0;
   }
 
   .page-riidanratkaisu.page-fixed-frame #footer {

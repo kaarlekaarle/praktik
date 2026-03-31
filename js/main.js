@@ -82,6 +82,7 @@ function updateActiveNavLink(slug) {
 }
 
 function initHamburger() {
+  let savedScrollY = 0;
   const hamburger = document.querySelector('.nav-hamburger');
   const overlay = document.getElementById('nav-mobile-overlay');
   if (!hamburger || !overlay) return;
@@ -89,12 +90,24 @@ function initHamburger() {
   function closeOverlay() {
     hamburger.setAttribute('aria-expanded', 'false');
     overlay.hidden = true;
+    document.body.style.position = '';
+    document.body.style.top = '';
+    document.body.style.width = '';
+    window.scrollTo(0, savedScrollY);
   }
 
   hamburger.addEventListener('click', () => {
     const isOpen = hamburger.getAttribute('aria-expanded') === 'true';
-    hamburger.setAttribute('aria-expanded', String(!isOpen));
-    overlay.hidden = isOpen;
+    if (isOpen) {
+      closeOverlay();
+    } else {
+      savedScrollY = window.scrollY;
+      document.body.style.position = 'fixed';
+      document.body.style.top = `-${savedScrollY}px`;
+      document.body.style.width = '100%';
+      hamburger.setAttribute('aria-expanded', 'true');
+      overlay.hidden = false;
+    }
   });
 
   document.addEventListener('keydown', (e) => {
