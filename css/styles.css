@@ -1,55 +1,55 @@
 @font-face {
   font-family: 'Items Text Light';
-  src: url('/fonts/ItemsText-Light.woff2') format('woff2');
+  src: url('/praktik/fonts/ItemsText-Light.woff2') format('woff2');
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Items Text Light';
-  src: url('/fonts/ItemsText-LightItalic.woff2') format('woff2');
+  src: url('/praktik/fonts/ItemsText-LightItalic.woff2') format('woff2');
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Items Text Regular';
-  src: url('/fonts/ItemsText-Regular.woff2') format('woff2');
+  src: url('/praktik/fonts/ItemsText-Regular.woff2') format('woff2');
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Items Text Regular';
-  src: url('/fonts/ItemsText-RegularItalic.woff2') format('woff2');
+  src: url('/praktik/fonts/ItemsText-RegularItalic.woff2') format('woff2');
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Phonic';
-  src: url('/fonts/Phonic-Regular.woff2') format('woff2');
+  src: url('/praktik/fonts/Phonic-Regular.woff2') format('woff2');
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Phonic';
-  src: url('/fonts/Phonic-RegularItalic.woff2') format('woff2');
+  src: url('/praktik/fonts/Phonic-RegularItalic.woff2') format('woff2');
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Phonic Medium';
-  src: url('/fonts/Phonic-Medium.woff2') format('woff2');
+  src: url('/praktik/fonts/Phonic-Medium.woff2') format('woff2');
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Phonic Medium';
-  src: url('/fonts/Phonic-MediumItalic.woff2') format('woff2');
+  src: url('/praktik/fonts/Phonic-MediumItalic.woff2') format('woff2');
   font-style: italic;
   font-display: swap;
 }
