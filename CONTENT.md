@@ -1,17 +1,20 @@
 ETUSIVU (FI)
-Helsinkiläinen lakiasiaintoimisto, joka kukoistaa vaikeissa kysymyksissä.
-Ratkaisemme kiperimmät oikeudelliset ongelmasi.
+Helpot ongelmat ratkeavat itsestään,
+vaikeita varten olemme me.
+Lakiasiaintoimisto Helsingissä.
 Ota yhteyttä.
 
 
 FRONT PAGE (EN)
-When your legal problem crosses a border, you need a lawyer who knows which country's law applies — and what follows from it.
+The easy ones solve themselves.
+We exist for the others.
 A law firm in Helsinki.
 Contact us.
 
 
 FRAMSIDA (SV)
-När ditt juridiska problem korsar en gräns behöver du en jurist som vet vilken lag som gäller — och vad som följer.
+Enkla problem löser sig.
+De svåra är vår uppgift.
 En juristbyrå i Helsingfors.
 Kontakta oss.
 
@@ -20,7 +23,8 @@ YKSITYISASIAT (FI)
 
 Yksityisasiat
 
-Koti, perhe, omaisuus. Jos jokin menee pieleen, pelissä on aina muutakin kuin rahaa.
+Koti, perhe, omaisuus. Jos jokin menee pieleen,
+pelissä on aina muutakin kuin rahaa.
 
 Perhe-elämä ja sen päättyminen
 Avioehto kannattaa laatia silloin, kun asiat ovat vielä hyvin. Se määrittää osituksen lopputuloksen ja mahdollisen tasingon määrän. Hoidamme osituksen valmistelun, neuvottelut ja tarvittaessa edustamme toimitusosituksessa. Lapsen huoltajuus, asuminen, tapaamiset ja elatusapu ovat asioita, joiden seuraukset ulottuvat vuosien päähän. Ne vaativat kauaskantoisia ratkaisuja, joita kriisitilanteessa ei kannata tehdä yksin.
@@ -38,7 +42,8 @@ PRIVATE MATTERS (EN)
 
 Private matters
 
-Home, family, inheritance. When something goes wrong with them, there is always more at stake than money.
+Home, family, inheritance. When something goes wrong with them,
+there is always more at stake than money.
 
 Family life and its ending
 The purpose of a prenuptial agreement is to protect both parties at a time when they can no longer protect each other. That is why it should be drafted while things are well — and tailored precisely to your circumstances. If division becomes necessary, we handle the preparation, negotiations and representation in court-administered proceedings. Custody, residence, contact, maintenance. These are not decisions about rights — they are decisions about a child's daily life. Our role is to make sure the outcome holds for years, not just for a courtroom.
@@ -56,7 +61,8 @@ PRIVATA ÄRENDEN (SV)
 
 Privata ärenden
 
-Hem, familj, egendom. När något går fel med dem handlar det alltid om mer än pengar.
+Hem, familj, egendom. När något går fel med
+dem handlar det alltid om mer än pengar.
 
 Familjelivet och dess slut
 Syftet med ett äktenskapsförord är att skydda båda parter den dag de inte längre kan skydda varandra. Därför upprättas det medan allting är bra — och skräddarsys efter just er situation. Om bodelning blir aktuell sköter vi förberedelserna, förhandlingarna och vid behov företrädandet inför skiftesman. Vårdnad, boende, umgänge, underhåll. Det är inte beslut om rättigheter — utan om ett barns vardag. Vår uppgift är att se till att resultatet håller i åratal, inte bara i rättssalen.
@@ -65,7 +71,7 @@ Arv och boutredning
 Få vill tänka på arvsfrågor i förväg. Men de som gör det besparar sin familj oklarheter, konflikter och onödig skatt i en redan svår stund. Testamenten. Intressebevakningsfullmakter. Bouppteckningar. Arvskiften. Rätt planerat genomför arvet den avlidnes vilja. Fel planerat genomför det skattemyndighetens.
 
 Entreprenad-, bostads- och fastighetsaffärer
-En köpare förväntar sig att få det man betalar för. En beställare förväntar sig att få det man avtalat om. Båda förväntningarna sviks oftare än man tror. Byggfel, dolda fel, rättsliga brister, fuktskador. Om du befinner dig i en situation där det som levererats inte motsvarar det som utlovats — är situationen välbekant för oss. Vi företräder köpare, säljare, entreprenörer och beställare. Rätt lösning börjar med rätt bild.
+En köpare förväntar sig att få det man betalar för. En beställare förväntar sig att få det man avtalat om. Båda förväntningarna sviks oftare än man tror. Byggfel, dolda fel, rättsliga brister, fuktskador. Om du befinner dig i en situation där det som levererats inte motsvarar det som utlovats — är situationen välbekant för oss. Vi företräder köpare, säljare, entreprenörer och beställare. Vi börjar med att skapa oss rätt bild.
 
 Berätta om din situation. Vi hittar rätt väg.
 
@@ -74,13 +80,15 @@ FÖRETAGSÄRENDEN (SV)
 
 Företagsärenden
 
-Era juridiska frågor kräver en rådgivare som inte behöver en briefing om er verksamhet — men som bör höra era mål.
+Era juridiska frågor kräver en rådgivare
+som inte behöver en briefing om er verksamhet
+– men som vill förstå era mål.
 
 Bolagsbildning
-Rätt bolagsform beror på vad ni planerar att göra, inte på vad andra har valt. Vi sköter det praktiska kring bildandet. Bolagsordningen och aktieägaravtalet är handlingar vars brister blir ett problem först när det är för sent att åtgärda dem. De förtjänar uppmärksamhet — från början.
+Rätt bolagsform beror på vad ni planerar att göra, inte på vad andra har valt. Vi sköter det praktiska kring bildandet. Bolagsordningen och aktieägaravtalet är handlingar vars brister blir ett problem först när det är för sent att åtgärda dem. De kräver uppmärksamhet — från början.
 
 Avtal
-Ett bra avtal är inte ett långt avtal. Det är ett där båda parter vet vad som avtalats — och som håller i det scenario ingen ville föreställa sig. Vi börjar med bedömning, inte upprättande. När en tvist uppstår kring ett avtal — oavsett vem som upprättat det — företräder vi från förhandlingsbordet till dom.
+Ett bra avtal är inte ett långt avtal. Det är ett där båda parter vet vad som avtalats — och som håller i det scenario ingen ville föreställa sig. Vi börjar med att bedöma, inte upprätta. När en tvist uppstår kring ett avtal — oavsett vem som upprättat det — företräder vi från förhandlingsbordet till dom.
 
 Anställning och dess upphörande
 Att avsluta en anställning rätt skyddar både arbetsgivaren och arbetstagaren. Att avsluta den fel kostar båda. Vi rådger båda parter. Vi upprättar anställnings- och chefsavtal samt konkurrensförbuds- och sekretessklausuler.
@@ -92,7 +100,8 @@ YRITYSASIAT (FI)
 
 Yritysasiat
 
-Yritys hyötyy eniten juristista, joka ymmärtää liiketoimintaa.
+Yritys hyötyy eniten juristista,
+joka ymmärtää liiketoimintaa.
 
 Yrityksen perustaminen
 Autamme valitsemaan oikean yhtiömuodon ja hoidamme perustamisen
@@ -113,7 +122,9 @@ CORPORATE MATTERS (EN)
 
 Corporate matters
 
-Your legal questions require an adviser you don't need to brief on your business — but who should hear your objectives.
+Your legal questions require an adviser
+you don't need to brief on your business
+– but who should hear your objectives.
 
 Company formation
 The right structure depends on what you plan to do, not on what others have chosen. We handle the practicalities of incorporation. Articles of association and shareholders' agreements are documents whose gaps only become a problem when it is too late to fix them. They deserve proper attention — from the start.
@@ -130,7 +141,9 @@ KANSAINVÄLISET YRITYSASIAT
 
 Kansainväliset yritysasiat
 
-Varmistamme, että ulkomaisten yritysten huomio Suomen markkinoilla toimiessa keskittyy mahdollisuuksiin eikä yllätyksiin.
+Varmistamme, että ulkomaisten yritysten
+huomio Suomen markkinoilla toimiessa keskittyy
+mahdollisuuksiin eikä yllätyksiin.
 
 Markkinoille tulo ja yrityksen perustaminen
 Tytäryhtiö vai sivuliike? Neuvomme yhtiömuodon valinnassa, osakepääomavaatimuksissa ja ETA-johtajasäännöissä. Toiminnan luonteesta riippuen Suomeen voi syntyä kiinteä toimipaikka, jolla on tiettyjä veroseuraamuksia, ja jotka voidaan huomioida harkinnassa. Hoidamme perustamisen käytännön vaiheet, kuten kaupparekisteri-ilmoituksista pankkitilin avaamiseen.
@@ -154,10 +167,12 @@ INTERNATIONELLA FÖRETAGSÄRENDEN (SV)
 
 Internationella företagsärenden
 
-Om ert företag planerar att verka i Finland kommer ni att möta regler som ingen engelskspråkig webbplats förbereder er på. Vi kan dem — och vi vet vilka som gäller just er.
+Att verka i Finland innebär regler som
+överraskar de flesta utländska företag.
+Vi kan dem – och vi vet vilka som gäller just er.
 
 Marknadsetablering och bolagsbildning
-Dotterbolag eller filial? Svaret beror på verksamheten, skattesituationen och huruvida ett fast driftställe är ett strategiskt val eller en olycka som väntar på att ske. Vi rådger om bolagsform, aktiekapital och EES-direktörskrav. Vi sköter det praktiska från handelsregisteranmälan till bankkonto.
+Dotterbolag eller filial? Svaret beror på verksamheten, skattesituationen och huruvida ett fast driftställe är ett strategiskt val eller en risk som förr eller senare slår till. Vi rådger om bolagsform, aktiekapital och EES-direktörskrav. Vi sköter det praktiska från handelsregisteranmälan till bankkonto.
 
 GDPR och dataskydd
 Konsekvensbedömningar. Personuppgiftsbiträdesavtal. Dataskyddsbeskrivningar. Intrångsanmälningar. Vi fungerar vid behov som externt dataskyddsombud. Regleringen ändras. Ni behöver inte följa med — det är vår uppgift.
@@ -170,7 +185,10 @@ INTERNATIONAL CORPORATE MATTERS
 
 International corporate matters
 
-If your company is planning to operate in Finland, you will encounter rules that no English-language website will prepare you for. We know them — and we know which ones apply to you.
+If your company is planning to operate in Finland,
+you will encounter rules that no English-language
+website will prepare you for. We know them
+– and we know which ones apply to you.
 
 Market entry and company establishment
 Subsidiary or branch? The answer depends on the business, the tax position, and whether a permanent establishment is a strategic choice or an accident waiting to happen. We advise on structure, share capital and EEA director rules. We handle the practicalities from trade register to bank account.
@@ -204,7 +222,10 @@ INTERNATIONAL PRIVATE MATTERS
 
 International private matters
 
-Life does not ask permission to cross borders. When it does, the legal consequences depend on which country's law applies. Working that out is at the core of what we do.
+Life does not ask permission to cross borders.
+When it does, the legal consequences depend on
+which country's law applies.
+Working that out is at the core of what we do.
 
 Acquiring property in Finland
 If you are purchasing real estate in Finland from outside the EU or EEA, you may need regulatory approval. We determine whether a permit is required, handle the application, review the purchase documentation, conduct due diligence and represent you at closing.
@@ -223,13 +244,16 @@ INTERNATIONELLA PRIVATÄRENDEN (SV)
 
 Internationella privatärenden
 
-Livet ber inte om lov att korsa gränser. När det gör det beror de juridiska konsekvenserna på vilken stats lag som tillämpas. Att reda ut detta är kärnan i det vi gör.
+Livet ber inte om lov att korsa gränser.
+När det gör det beror de juridiska konsekvenserna
+på vilken stats lag som tillämpas.
+Att reda ut detta är kärnan i det vi gör.
 
 Förvärv av fastighet i Finland
 Om du köper fastighet i Finland från ett land utanför EU eller EES kan du behöva myndighetstillstånd. Vi utreder tillståndsbehovet, handlägger ansökan, granskar köpehandlingarna och företräder dig vid tillträdet.
 
 Internationell familjerätt
-Vid en gränsöverskridande skilsmässa handlar den första tvisten ofta om var tvisten ska föras. Jurisdiktion. Tillämplig lag. Erkännande av domar utomlands. Dessa måste lösas innan själva saken kan behandlas — och de avgör ofta resultatet. Vi delar egendom över gränser. Vi upprättar äktenskapsförord som håller under granskning i mer än en rättsordning. Vi bistår i internationella barnärenden från umgängesrätt till förfaranden enligt Haagkonventionen. Om ni inte vet var ni ska börja — det vet vi.
+Vid en gränsöverskridande skilsmässa handlar den första tvisten ofta om var tvisten ska föras. Jurisdiktion. Tillämplig lag. Erkännande av domar utomlands. Dessa måste lösas innan själva saken kan behandlas — och de avgör ofta resultatet. Vi delar egendom över gränser. Vi upprättar äktenskapsförord som håller i mer än ett rättssystem. Vi bistår i internationella barnärenden från umgängesrätt till förfaranden enligt Haagkonventionen. Om ni inte vet var ni ska börja — det vet vi.
 
 Gränsöverskridande arvsplanering
 EU:s arvsförordning anger var man börjar. Den anger inte var man hamnar. När ett dödsbo sträcker sig över flera länder ger inget enskilt regelverk svaret — utan flera länders lagstiftning, tillsammans. Vi handlägger boutredning och arvskifte över gränser. Vi utreder skatteskyldighet land för land.
@@ -270,7 +294,7 @@ Tvister
 
 Den bästa tvisten löses före rättegång. Den näst bästa vinns.
 
-Vi bedömer era alternativ tillsammans innan vi går åt något håll. Om förhandlingen inte räcker företräder vi inför domstolen både inom inhemska och gränsöverskridande tvister. Vi handlägger även skiljeförfaranden från inledning till verkställighet.
+Vi bedömer era alternativ tillsammans innan vi går åt något håll. Om förhandlingen inte räcker företräder vi i såväl inhemska som gränsöverskridande tvister. Vi handlägger även skiljeförfaranden från inledning till verkställighet.
 
 Från början till slut.
 
