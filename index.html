@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Praktik</title>
+    <script>
+      (function () {
+        // If user has previously chosen a language, respect that
+        var saved = localStorage.getItem('praktik-lang');
+        if (saved === 'fi' || saved === 'en' || saved === 'sv') {
+          window.location.replace('/' + saved + '/index.html');
+          return;
+        }
+
+        // Otherwise detect from browser language
+        var lang = (navigator.language || navigator.userLanguage || 'fi').toLowerCase();
+        if (lang.startsWith('sv')) {
+          window.location.replace('/sv/index.html');
+        } else if (lang.startsWith('fi')) {
+          window.location.replace('/fi/index.html');
+        } else {
+          window.location.replace('/en/index.html');
+        }
+      })();
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
