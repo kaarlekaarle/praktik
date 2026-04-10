@@ -946,11 +946,12 @@ h2,
     max-height: 100%;
   }
 
-  /* Mobile hero font: max size per language to fit longest line without wrapping */
+  /* Mobile hero font: per-language overrides below handle fi/en/sv.
+     This fallback covers any unlisted language. */
   .hero-headline,
   .hero-sub,
   .hero-cta {
-    font-size: min(4.1vw, 5.5vh);
+    font-size: min(5.5vw, 5.5vh);
   }
 
   :lang(en) .hero-headline,
@@ -962,7 +963,7 @@ h2,
   :lang(fi) .hero-headline,
   :lang(fi) .hero-sub,
   :lang(fi) .hero-cta {
-    font-size: min(5.2vw, 5.5vh);
+    font-size: min(5.8vw, 5.5vh);
   }
 
   :lang(sv) .hero-headline,
