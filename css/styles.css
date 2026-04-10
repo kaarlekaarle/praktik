@@ -953,6 +953,12 @@ h2,
     font-size: min(4.1vw, 5.5vh);
   }
 
+  :lang(en) .hero-headline,
+  :lang(en) .hero-sub,
+  :lang(en) .hero-cta {
+    font-size: min(5.8vw, 5.5vh);
+  }
+
   :lang(fi) .hero-headline,
   :lang(fi) .hero-sub,
   :lang(fi) .hero-cta {
@@ -962,7 +968,7 @@ h2,
   :lang(sv) .hero-headline,
   :lang(sv) .hero-sub,
   :lang(sv) .hero-cta {
-    font-size: min(4.6vw, 5.5vh);
+    font-size: min(5.8vw, 5.5vh);
   }
 
   .block-intro {
