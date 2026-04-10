@@ -18,8 +18,8 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-source-dir: ./praktik/
-          server-dir: /home/yqqirvwa/public_html/
+          local-dir: ./praktik/
+          server-dir: /public_html/
           exclude: |
             **/.git*
             **/.git*/**
