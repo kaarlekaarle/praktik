@@ -157,6 +157,7 @@ async function injectIllustration() {
   const containers = document.querySelectorAll('[data-illustration]');
   if (!containers.length) return;
   for (const container of containers) {
+    container.querySelectorAll('svg').forEach((svg) => svg.remove());
     const name = container.dataset.illustration;
     try {
       const res = await fetch(`/illustrations/${name}.svg`);
@@ -182,6 +183,18 @@ async function injectIllustration() {
   }
 }
 
+function applyInternationalBusinessMobileIllustrationOrder(slug) {
+  if (slug !== 'kansainvaliset-yritysasiat') return;
+
+  const heroIllustration = document.querySelector('.block-intro .block-illustration--hero[data-illustration]');
+  const marketEntryIllustration = document.querySelector('.block-example .block-illustration[data-illustration]');
+  if (!heroIllustration || !marketEntryIllustration) return;
+
+  const isMobile = window.matchMedia('(max-width: 768px)').matches;
+  heroIllustration.dataset.illustration = isMobile ? 'ponder' : 'GPDR2';
+  marketEntryIllustration.dataset.illustration = isMobile ? 'GPDR2' : 'ponder';
+}
+
 export async function initPage(language, slug) {
   const navPath = `/components/nav-${language}.html`;
   const footerPath = `/components/footer.html`;
@@ -195,7 +208,8 @@ export async function initPage(language, slug) {
   updateLangSwitcher(language, slug);
   updateActiveNavLink(slug);
   initHamburger();
-  injectIllustration();
+  applyInternationalBusinessMobileIllustrationOrder(slug);
+  await injectIllustration();
   requestAnimationFrame(() => {
     requestAnimationFrame(() => {
       updateNavHeight();
@@ -206,9 +220,16 @@ export async function initPage(language, slug) {
 
   // initPage() is called once per page — single listener is safe.
   let resizeTimer;
+  let previousIsMobile = window.matchMedia('(max-width: 768px)').matches;
   window.addEventListener('resize', () => {
     clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(() => {
+    resizeTimer = setTimeout(async () => {
+      const currentIsMobile = window.matchMedia('(max-width: 768px)').matches;
+      if (slug === 'kansainvaliset-yritysasiat' && currentIsMobile !== previousIsMobile) {
+        applyInternationalBusinessMobileIllustrationOrder(slug);
+        await injectIllustration();
+        previousIsMobile = currentIsMobile;
+      }
       updateNavHeight();
       updateFooterHeight();
     }, 100);
